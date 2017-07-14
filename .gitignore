@@ -1,4 +1,4 @@
-hello_world/main
+**/hello_world/main
 **/target/
 **/*.rs.bk
 .vscode
