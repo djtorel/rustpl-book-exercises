@@ -28,7 +28,7 @@ fn pig_latin(string: String) -> String {
     String::from(new_string.trim())
 }
 
-// mutat_word function takes in word, turns it into a Vec<char> to manipulate,
+// mutate_word function takes in word, turns it into a Vec<char> to manipulate,
 // individual chars. Then checks if the first char is a vowel, if it is a vowel
 // it pushes 'h' to end of the chars vector, if not it removes the first char,
 // pushes it into the end of the vec.
